@@ -1,19 +1,15 @@
-#AntiCheat
-A Simple and Basic Open Source C++ Anti-Cheat for Anyone Want's Lean how to Create AntiCheat, 
-I Think This Project is Good Example\Sample but Not Very Secure,
-That's my first C++ Project (by Only Find Code's from Internet and Paste).
+# AntiCheat
+Very simple and quick Anit-Cheat written in C++, this my first upload on github. Most codes are taken from internet and based NTA's aCI [source code](https://www.unknowncheats.me/forum/1438068-post1.html)
 
-# Features
-- Memory Scan
-- Procces Module
+## Features
+- Memory Scan (detecting memory read-writes)
+- Procces Module (detecting blacklisted module injections)
 - ScreenShot Capture
-- System Info for Ban
-- Window Text Detection
+- Hardware info for Ban (aka. HWID)
+- Window Text Detection (detecting unwanted softwares like Cheat Engine)
 
-# TODO
-- A test Program
-- Drive\Disk Serial
-- String Crypto
-- Task Scheduler
-- Check Procces Functions
-- And More
+## Using
+This is just for researching purpose, avoid direct using in your projects. Just for inspiration.
+
+## Compile
+I didn't try it yet.
